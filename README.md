@@ -1,7 +1,3 @@
-Absolutely! Here's your **UK English** version of the same text, with **no grammar changes**, no added dashes, and keeping your tone and structure exactly as it is — just adapted to British spelling and word choices:
-
----
-
 # 👋 Hey, I'm Abdullah
 
 Thanks for stopping by!
