@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abdallah
+# 👋 Hey, I'm Abdullah
 
 Thanks for stopping by!
 
