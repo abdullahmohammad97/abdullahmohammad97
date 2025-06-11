@@ -55,7 +55,7 @@ Curious. Problem focused. Outcome driven.
 If you're working on something interesting in data, business, or tech, I’d love to connect and learn more.
 
 📫 Email: [abdallahluqman786@icloud.com](mailto:abdallahluqman786@icloud.com)
-🔗 linked: https://linkedin/in/abdullahm97
+🔗 linked: www.linkedin.com/in/abdullahm97
 📍 Based in the UK
 
 “I don’t just work with data, I chase the ‘why’ behind it.”
