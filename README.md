@@ -2,34 +2,35 @@
 
 Thanks for stopping by!
 
-I'm someone who didn’t take the “traditional” path into data analysis, mine started way earlier and much messier. At **15 years old**, I was knee deep in trying out anything and everything online: from first time seeing a forex chart and scanning and understanding pretty much nothing, to selling gadgets, building affiliate pages, testing product glitches, offering review services, and spying on online stores just to figure out what made them tick.
+I didn’t take the “traditional” route into data analysis — my journey started much earlier and, frankly, a lot messier. At **15 years old**, I was knee-deep in trying anything and everything online: from the first time I saw a forex chart (and understood almost nothing), to selling gadgets, creating affiliate pages, experimenting with product glitches, offering review services, and keeping an eye on other online stores to figure out what made them successful.
 
-Back then, I was just experimenting. But over time, I realized something: I loved solving problems. I loved tracking patterns. And most of all I loved coding and understanding **why** things work when you put analysis before executing a project or anything.
+Back then, I was just experimenting. But over time, I realised something: I loved solving problems. I loved spotting patterns. And most of all, I loved coding and discovering **why** things work — especially when you apply analysis before jumping into a project or business idea.
 
-That curiosity led me to start using **Excel** to track sales and trends. Then came dashboards. Then came the obsession with **data**. I taught myself how to use tools like **Power BI** and **Python**, how to write queries in **SQL** and **MySQL**, and how to pull real insights from messy information. Eventually, that passion turned into something bigger and I decided to pursue a **degree in Data Analysis** to sharpen the skills I had already started developing in the real world.
+That curiosity led me to start using **Excel** to track sales and trends. Then came dashboards. Then came a full-blown obsession with **data**. I taught myself how to use tools like **Power BI** and **Python**, how to write queries in **SQL** and **MySQL**, and how to extract real insights from messy, real-world data. Eventually, that passion turned into something more structured, and I chose to pursue a **degree in Data Analysis** to sharpen the skills I had already been building independently.
 
 ---
 
 ## 📊 What I Do Now:
 
-I now work on solving real-world problems using data. My focus is always: “what story is this data telling me?” & "what problem is that business facing?"
+These days, I focus on solving real-world problems using data. My approach always starts with two questions:  
+**“What story is this data telling me?”** and **“What problem is this business really facing?”**
 
-🔹 Clean, explore, and analyze large datasets  
+🔹 Clean, explore, and analyse large datasets  
 🔹 Build dashboards & reports using **Power BI & Excel**  
 🔹 Forecast trends and identify business opportunities  
-🔹 Run A/B tests, track KPIs, and optimize decisions  
-🔹 Apply **machine learning models** to uncover deeper patterns  
+🔹 Run A/B tests, track KPIs, and improve decision-making  
+🔹 Apply **machine learning models** to uncover deeper insights  
 🔹 Automate repetitive workflows using Python  
 
 ---
 
 ## 🧠 Machine Learning Skills
 
-I’ve been building my foundation in **machine learning** to go beyond dashboards and into **predictive analysis**. Some of the concepts I’ve worked with include:
+To go beyond visualisation and reporting, I’ve been developing my foundation in **machine learning** — applying predictive techniques to add even more value to business insights.
 
 - 🧪 Regression (Linear, Logistic)  
 - 🔍 Classification (SVM, Decision Trees, KNN)  
-- 📊 Model evaluation (Confusion Matrix, Accuracy, Precision, Recall, F1)  
+- 📊 Model evaluation (Confusion Matrix, Accuracy, Precision, Recall, F1 Score)  
 - 🧹 Data preprocessing and feature engineering  
 - 🧠 Tools: `scikit-learn`, `statsmodels`, `Seaborn`, `Matplotlib`
 
@@ -37,15 +38,15 @@ I’ve been building my foundation in **machine learning** to go beyond dashboar
 
 ## 🛠️ Tools & Languages I Use:
 
-**Programming & ML:**  
-- Python (Pandas, NumPy, Scikit-learn,)  
+**Programming & Machine Learning:**  
+- Python (Pandas, NumPy, scikit-learn)  
 - SQL, MySQL  
 
-**Visualization & Reporting:**  
+**Visualisation & Reporting:**  
 - Power BI  
-- Excel (Advanced formulas, Dashboards, Forecasting)  
-- Seaborn, Matplotlib
-- Power Point for Power BI background creation
+- Excel (Advanced formulas, dashboards, forecasting)  
+- Seaborn, Matplotlib  
+- PowerPoint (for Power BI background design)
 
 **Other Tools:**  
 - Jupyter Notebook  
@@ -56,19 +57,19 @@ I’ve been building my foundation in **machine learning** to go beyond dashboar
 
 ## 🔁 The Real Turning Point
 
-What really changed things for me was realizing that **data wasn’t just about numbers** it was about stories, strategies, and smarter decisions. Whether I was tracking product trends or trying to understand mental health patterns in a dataset, I always found myself looking for **meaning** in the chaos.
+The biggest shift for me was realising that **data isn’t just about numbers** — it’s about stories, strategies, and making better decisions. Whether I was tracking product trends or analysing patterns in mental health data, I found myself searching for the **meaning behind the data**.
 
-And that’s the mindset I carry now:  
+And that’s still the mindset I carry today:  
 Curious. Problem-focused. Outcome-driven.
 
 ---
 
 ## 💬 Let’s Connect
 
-If you're working on something interesting in data, business, or tech, I’d love to hear about it.
+If you're working on something interesting in data, business, or tech, I’d love to connect and learn more.
 
-📫 Email: abdallahluqman786@icloud.com
-🔗 [LinkedIn](https://linkedin.com/in/abdullahm97  
+📫 Email: abdallahluqman786@icloud.com  
+🔗 [LinkedIn](https://linkedin.com/in/abdullahm97)  
 📍 Based in the UK
 
 ---
