@@ -4,7 +4,7 @@ Thanks for stopping by!
 
 I'm someone who didn’t take the “traditional” path into data analysis, mine started way earlier and much messier. At **15 years old**, I was knee deep in trying out anything and everything online: from first time seeing a forex chart and scanning and understanding pretty much nothing, to selling gadgets, building affiliate pages, testing product glitches, offering review services, and spying on online stores just to figure out what made them tick.
 
-Back then, I was just experimenting. But over time, I realized something: I loved solving problems. I loved tracking patterns. And most of all I loved coding and understanding **why** things worked the way they did.
+Back then, I was just experimenting. But over time, I realized something: I loved solving problems. I loved tracking patterns. And most of all I loved coding and understanding **why** things work when you put analysis before executing a project or anything.
 
 That curiosity led me to start using **Excel** to track sales and trends. Then came dashboards. Then came the obsession with **data**. I taught myself how to use tools like **Power BI** and **Python**, how to write queries in **SQL** and **MySQL**, and how to pull real insights from messy information. Eventually, that passion turned into something bigger and I decided to pursue a **degree in Data Analysis** to sharpen the skills I had already started developing in the real world.
 
