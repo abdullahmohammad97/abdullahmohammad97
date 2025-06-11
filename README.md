@@ -10,7 +10,7 @@ Eventually, I started using Excel to track sales and spot trends. Then came dash
 
 That passion eventually led me to pursue a degree in Data Analysis, building on the self taught foundation I had been growing for years.
 
-\#📊 What I Do Now
+#📊 What I Do Now
 These days, I focus on solving real world problems using data. My approach always starts with two questions:
 “What story is this data telling me?” and “What problem is this business really facing?”
 
@@ -21,7 +21,7 @@ These days, I focus on solving real world problems using data. My approach alway
 🔹 Apply machine learning models to uncover deeper insights
 🔹 Automate repetitive workflows using Python
 
-\#🧠 Machine Learning Skills
+#🧠 Machine Learning Skills
 To go beyond visualisations and reporting, I’ve been building a foundation in machine learning applying predictive techniques to add even more value to business insights.
 
 🧪 Regression (Linear, Logistic)
@@ -30,29 +30,29 @@ To go beyond visualisations and reporting, I’ve been building a foundation in 
 🧹 Data preprocessing and feature engineering
 🧠 Tools: scikit-learn, statsmodels, Seaborn, Matplotlib
 
-\#🛠️ Tools & Languages I Use
+#🛠️ Tools & Languages I Use
 **Programming & Machine Learning:**
 Python (Pandas, NumPy, scikit-learn)
 SQL, MySQL
 
-**Visualisation & Reporting:**
+#**Visualisation & Reporting:**
 Power BI
 Excel (Advanced formulas, dashboards, forecasting)
 Seaborn, Matplotlib
 PowerPoint (for Power BI background design)
 
-**Other Tools:**
+#**Other Tools:**
 Jupyter Notebook
 Git & GitHub
 Google Sheets
 
-\#🔁 The Real Turning Point
+#🔁 The Real Turning Point
 The biggest shift for me was realising that data isn’t just about numbers it’s about stories, strategies, and smarter decisions. Whether I was tracking product trends or analysing patterns in mental health data, I kept chasing the meaning behind the numbers.
 
 And that’s still the mindset I carry today:
 Curious. Problem focused. Outcome driven.
 
-\#💬 Let’s Connect
+#💬 Let’s Connect
 If you're working on something interesting in data, business, or tech, I’d love to connect and learn more.
 
 📫 Email: [abdallahluqman786@icloud.com](mailto:abdallahluqman786@icloud.com)
